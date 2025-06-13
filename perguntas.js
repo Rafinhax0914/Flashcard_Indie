@@ -33,3 +33,18 @@ criaCartao(
     'Em Journey, qual é o principal objetivo do jogador?',
     'Alcançar o topo da montanha brilhante.'
 )
+criaCartao(
+    'Stardew Valley',
+    'Em Stardew valley, qual o trabalho do jogador?',
+    'Um fazendeiro.'
+)
+criaCartao(
+    'Jogo supresa',
+    'Qual o jogo indie mais vendido?',
+    'Minecraft.'
+)
+criaCartao(
+    'Animalesco',
+    'Qual o jogo indie em que tu controla um gato?',
+    'Stray.'
+)
