@@ -1,6 +1,6 @@
 :root {
     --text-color: #5f0000;
-    --card-front-color: #babcbe;
+    --card-front-color: #f5f6f7;
     --card-back-color: hsl(0, 93%, 28%);
 }
 
@@ -114,3 +114,4 @@ footer p {
         font-size: 3.8vw;
     }
 }
+
